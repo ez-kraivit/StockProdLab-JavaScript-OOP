@@ -1,0 +1,2 @@
+โจทย์ ให้ทำการสร้าง Class Stock โดยการแบ่ง Sub Stock ได้แก่ จำหน่ายวัตถุดิบ , Order (Buy,Sell,PayBack) , File System
+โดยให้ Class Stock ประกอบไปด้วย ฟังก์ชัน ยอดขายทั้งหมด , Log Data
